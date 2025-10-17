@@ -51,7 +51,7 @@ Selecione um emulador ou dispositivo físico com Android 12 (API 31) ou superior
 
 ## 👥 Contribuidores
 
-Agradecemos a todos que contribuíram para o desenvolvimento do ScanGO:
+Agradecemos a todos que contribuíram para o desenvolvimento do DevQuiz:
 
 | Nome | GitHub | LinkedIn |
 | :--- | :--- | :--- |
