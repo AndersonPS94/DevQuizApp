@@ -8,7 +8,7 @@
 
  Um aplicativo de quiz divertido e desafiador focado em perguntas sobre o mundo do Desenvolvimento de Software (Dev).
 
-Desenvolvido em Kotlin, este projeto visa ser uma ferramenta para testar e expandir seu conhecimento em diversas áreas da tecnologia, desde linguagens de programação até conceitos de engenharia de software.
+Desenvolvido em Kotlin, este projeto visa ser uma ferramenta para testar e expandir seu conhecimento em desenvolvimento android.
 
 ## 📸 Screenshots
 <img width="200" height="3272" alt="1" src="https://github.com/user-attachments/assets/9df7c372-557d-4c73-89ce-d9a01d26dcd8" />
