@@ -21,7 +21,6 @@ Desenvolvido em Kotlin, este projeto visa ser uma ferramenta para testar e expan
 
 ## ✨ Funcionalidades Principais
 
-O ScanGO oferece uma experiência de usuário fluida e completa, focada na velocidade e na organização dos dados escaneados:
 
 *   **Interface simples e intuitiva.**
 *   **Pontuação e feedback instantâneo.** 
